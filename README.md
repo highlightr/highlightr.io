@@ -1,15 +1,12 @@
 # Highlightr.io
 ### Highlight and share any page. 
+![Demo](https://i.imgur.com/jHfqd55.gif)
 
 ## Links
 ### Chrome Extension Available in the App Store
-- TBD
+https://chrome.google.com/webstore/detail/highlightrio/likcblkngckedgoojneppgpdocldbgga
 
-### Server-side App, deployed on Heroku
-- TBD 
-
-## Wireframes / ERD
-![Wireframes](https://i.imgur.com/ijZQc7Z.jpg)
+### Server-side App deployed on Heroku
 
 ![ERD](https://i.imgur.com/OlyDPDq.jpg)
 
