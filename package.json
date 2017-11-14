@@ -1,0 +1,21 @@
+{
+  "name": "highlightr.io",
+  "version": "1.0.0",
+  "description": "## Links ### Chrome Extension Available in the App Store - TBD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd api-server; node server.js",
+    "postinstall": "cd api-server; npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christopherfujino/highlightr.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christopherfujino/highlightr.io/issues"
+  },
+  "homepage": "https://github.com/christopherfujino/highlightr.io#readme"
+}
