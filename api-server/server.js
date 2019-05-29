@@ -47,6 +47,7 @@ app.delete('/api/articles/:slug', controllers.article.destroy)
 // show page
 app.get('/highlights/:slug', controllers.article.showHtml)
 
-const port = process.env.API_PORT
+// Heroku uses $PORT
+const port = process.env.PORT || process.env.API_PORT
 
 app.listen(port, () => console.log(`API Server running on port http://localhost:${port}.`))
